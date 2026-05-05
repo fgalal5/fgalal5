@@ -1,9 +1,9 @@
 ## Hi, I'm Farrah 👋
 
-🌱 Currently a Master of Science at UCLA studying Electrical and Computer Engineering
-🎓 Gradauted with my Bachelor of Science at UCI with a Computer Science and Engineering Degree
-🔭 Interested in the intersection of ML and hardware!
-📫 Feel free to reach out to me on [linkedin](https://www.linkedin.com/in/farrahgalal/)
+-🌱 Currently a Master of Science at UCLA studying Electrical and Computer Engineering
+-🎓 Gradauted with my Bachelor of Science at UCI with a Computer Science and Engineering Degree
+-🔭 Interested in the intersection of ML and hardware!
+-📫 Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/farrahgalal/)
 
 
 
